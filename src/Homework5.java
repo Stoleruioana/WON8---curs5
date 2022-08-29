@@ -1,6 +1,7 @@
 import java.util.Random;
 public class Homework5 {
     public static void main(String[] args) {
+    // comentariu
 
     int[] sirint = {2,5,6,7,8,9,200,3760, 301,333,101};
 
